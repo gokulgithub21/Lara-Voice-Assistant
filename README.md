@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ### 🔁 Clone the Repository
 
 bash
-git clone https://github.com/your-username/voice-assistant-lara.git
+git clone https://github.com/gokulgithub21/Lara_Voice_Assistant.git
 cd voice-assistant-lara
 
 
