@@ -41,9 +41,9 @@ Lara is a cross-platform intelligent voice assistant built using Python. It list
 
 Install all packages using:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -51,11 +51,10 @@ pip install -r requirements.txt
 
 ### 🔁 Clone the Repository
 
-bash
+```bash
 git clone https://github.com/gokulgithub21/Lara_Voice_Assistant.git
-
 cd voice-assistant-lara
-
+```
 
 ---
 
@@ -63,23 +62,23 @@ cd voice-assistant-lara
 
 #### 🪟 Windows
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 #### 🐧 Linux
 
-bash
+```bash
 sudo apt-get install python3-tk python3-pyaudio vlc
 pip install -r requirements.txt
-
+```
 
 #### 🍎 macOS
 
-bash
+```bash
 brew install python-tk portaudio vlc
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -87,9 +86,9 @@ pip install -r requirements.txt
 
 After installation, run the assistant:
 
-bash
+```bash
 python main.py
-
+```
 
 Make sure your microphone is working. Say *"Lara"* to activate her.
 
@@ -112,14 +111,14 @@ Make sure your microphone is working. Say *"Lara"* to activate her.
 
 ## 📁 Project Structure
 
-
+```bash
 voice-assistant-lara/
 ├── main.py
 ├── music/
 ├── memory.txt
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
